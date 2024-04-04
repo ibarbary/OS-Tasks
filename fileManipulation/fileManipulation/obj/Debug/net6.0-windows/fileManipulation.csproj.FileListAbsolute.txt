@@ -1,0 +1,17 @@
+D:\C#\fileManipulation\fileManipulation\bin\Debug\net6.0-windows\fileManipulation.exe
+D:\C#\fileManipulation\fileManipulation\bin\Debug\net6.0-windows\fileManipulation.deps.json
+D:\C#\fileManipulation\fileManipulation\bin\Debug\net6.0-windows\fileManipulation.runtimeconfig.json
+D:\C#\fileManipulation\fileManipulation\bin\Debug\net6.0-windows\fileManipulation.dll
+D:\C#\fileManipulation\fileManipulation\bin\Debug\net6.0-windows\fileManipulation.pdb
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.csproj.AssemblyReference.cache
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.Form1.resources
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.csproj.GenerateResource.cache
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.AssemblyInfoInputs.cache
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.AssemblyInfo.cs
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.csproj.CoreCompileInputs.cache
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.dll
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\refint\fileManipulation.dll
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.pdb
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\fileManipulation.genruntimeconfig.cache
+D:\C#\fileManipulation\fileManipulation\obj\Debug\net6.0-windows\ref\fileManipulation.dll
